@@ -1,5 +1,19 @@
-*{margin: 0;
-padding: 0;}
+*{
+    margin: 0;
+    padding: 0;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Outfit:wght@100..900&display=swap');
+
+body{
+    @apply bg-black;
+}
+
+.tg{
+    background: linear-gradient(#DF8908,#B415FF);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+}
