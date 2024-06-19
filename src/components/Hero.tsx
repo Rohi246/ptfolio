@@ -1,7 +1,7 @@
 import React from 'react'
 import profile from '../assets/profile_img.svg'
 import { Constants } from '../COSTANTS'
-const Hero = () => {
+const Hero:React.FC = () => {
   return (
     <div className=' flex flex-col items-center gap-[35px]' >
 

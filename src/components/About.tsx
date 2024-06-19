@@ -1,4 +1,3 @@
-import React from 'react'
 import themepattern from '../assets/theme_pattern.svg'
 import profikesvg from '../assets/profile_img.svg'
 import { Constants } from '../COSTANTS'

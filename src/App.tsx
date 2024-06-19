@@ -1,9 +1,11 @@
-import { useState } from 'react'
+// src/App.tsx
+import React from 'react';
+
 import Navbar from './components/Navbar'
 import './index.css'
 import Hero from './components/Hero'
 import About from './components/About'
-function App() {
+const App:React.FC=()=> {
  
   return (
     <div >

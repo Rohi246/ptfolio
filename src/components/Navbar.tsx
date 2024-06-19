@@ -1,4 +1,4 @@
-import React from 'react'
+
 import '../index.css'
 import logo from '../assets/logo.svg'
 const Navbar = () => {

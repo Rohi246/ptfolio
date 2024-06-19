@@ -1,4 +1,3 @@
-import React from 'react';
 import n from './assets/project_imags/a.png';
 type ProjectType = {
     imgurl: string;
